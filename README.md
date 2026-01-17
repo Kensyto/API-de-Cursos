@@ -44,7 +44,7 @@ O projeto segue a arquitetura em camadas:
   {
     "name": "Java Especialista",
     "category": "Backend",
-    "professor": "Jules AI"
+    "professor": "Ken"
   }
   ```
 - **Resposta:** `201 Created`
@@ -61,7 +61,7 @@ O projeto segue a arquitetura em camadas:
   {
     "name": "Java Master",
     "category": "Backend",
-    "professor": "Jules AI"
+    "professor": "Ken"
   }
   ```
 - **Resposta:** `200 OK`
